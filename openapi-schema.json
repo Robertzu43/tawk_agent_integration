@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://your-deployment-url.elestio.app",
+      "url": "https://tawk-agent-integration-u26389.vm.elestio.app",
       "description": "Production server"
     }
   ],
